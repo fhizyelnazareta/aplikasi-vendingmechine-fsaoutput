@@ -1,0 +1,46 @@
+.jumbotron{
+    background-color: rgb(221, 22, 22);
+    color: white;
+}
+.cocacola{
+    width: 200px;
+    float: right;
+}
+.judul{
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(175, 60, 60);
+    color: white;
+}
+body{
+    background-color: rgb(196, 196, 102);
+}
+.navlogo{
+    width: 30px;
+    margin-right: 10px;
+}
+.center{
+    text-align: center;
+}
+.tentang{
+    display: block;
+    margin: 20px auto 20px auto;
+}
+.sponsor{
+    width: 80px;
+}
+.copyright{
+    margin-top: 50px;
+}
+.card2{
+    border: 2px solid rgb(53, 49, 49);
+    border-radius: 8px;
+}
+.card-body{
+    background-color: rgb(216, 216, 185);
+}
+.card-header, .card-footer{
+    background-color: rgb(73, 52, 52);
+    color: white;
+}
